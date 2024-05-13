@@ -1,0 +1,993 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head><script data-no-optimize="1">var litespeed_docref=sessionStorage.getItem("litespeed_docref");litespeed_docref&&(Object.defineProperty(document,"referrer",{get:function(){return litespeed_docref}}),sessionStorage.removeItem("litespeed_docref"));</script>
+	<meta charset="UTF-8">
+		<title>Combo Liberdade &#8211; La Casa Digital</title>
+<meta name='robots' content='max-image-preview:large' />
+<script type='application/javascript'  id='pys-version-script'>console.log('PixelYourSite Free version 9.5.5');</script>
+<link rel="alternate" type="application/rss+xml" title="Feed para La Casa Digital &raquo;" href="https://lacasadigital.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para La Casa Digital &raquo;" href="https://lacasadigital.com.br/comments/feed/" />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-polls-css' href='https://lacasadigital.com.br/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.2' media='all' />
+<style id='wp-polls-inline-css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('https://lacasadigital.com.br/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='https://lacasadigital.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://lacasadigital.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://lacasadigital.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://lacasadigital.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://lacasadigital.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.21.5' media='all' />
+<style id='elementor-frontend-inline-css'>
+.elementor-kit-4{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-971f2d5:#3A9346;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-4 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-divider{--divider-color:var( --e-global-color-secondary );}.elementor-widget-divider .elementor-divider__text{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-secondary );}.elementor-widget-image-box .elementor-image-box-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-image-box .elementor-image-box-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-icon-box .elementor-icon-box-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-star-rating .elementor-star-rating__title{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-widget-counter .elementor-counter-number-wrapper{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-counter .elementor-counter-title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar{background-color:var( --e-global-color-primary );}.elementor-widget-progress .elementor-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial .elementor-testimonial-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial .elementor-testimonial-name{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-testimonial .elementor-testimonial-job{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:var( --e-global-color-primary );}.elementor-widget-tabs .elementor-tab-title.elementor-active,
+					 .elementor-widget-tabs .elementor-tab-title.elementor-active a{color:var( --e-global-color-accent );}.elementor-widget-tabs .elementor-tab-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-tabs .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title{color:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-accordion-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active .elementor-accordion-title{color:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-active .elementor-accordion-icon svg{fill:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-accordion-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-accordion .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon{color:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-toggle-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon{color:var( --e-global-color-accent );}.elementor-widget-toggle .elementor-toggle-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-toggle .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-alert .elementor-alert-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-alert .elementor-alert-description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-path{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-site-logo .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-site-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-theme-page-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-theme-post-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-theme-post-excerpt .elementor-widget-container{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-post-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-post-featured-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-theme-archive-title .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-archive-posts .elementor-post__meta-data{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-archive-posts .elementor-post__excerpt p{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-archive-posts .elementor-post__read-more{color:var( --e-global-color-accent );}.elementor-widget-archive-posts a.elementor-post__read-more{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-archive-posts .elementor-pagination{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-archive-posts .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-archive-posts .e-load-more-message{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-archive-posts .elementor-posts-nothing-found{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-loop-grid .elementor-pagination{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-loop-grid .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-loop-grid .e-load-more-message{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-posts .elementor-post__meta-data{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-posts .elementor-post__excerpt p{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-posts .elementor-post__read-more{color:var( --e-global-color-accent );}.elementor-widget-posts a.elementor-post__read-more{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-posts .elementor-post__card .elementor-post__badge{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-posts .elementor-pagination{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-posts .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-posts .e-load-more-message{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-portfolio a .elementor-portfolio-item__overlay{background-color:var( --e-global-color-accent );}.elementor-widget-portfolio .elementor-portfolio-item__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-portfolio .elementor-portfolio__filter{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-portfolio .elementor-portfolio__filter.elementor-active{color:var( --e-global-color-primary );}.elementor-widget-gallery .elementor-gallery-item__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-gallery .elementor-gallery-item__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-gallery{--galleries-title-color-normal:var( --e-global-color-primary );--galleries-title-color-hover:var( --e-global-color-secondary );--galleries-pointer-bg-color-hover:var( --e-global-color-accent );--gallery-title-color-active:var( --e-global-color-secondary );--galleries-pointer-bg-color-active:var( --e-global-color-accent );}.elementor-widget-gallery .elementor-gallery-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label{color:var( --e-global-color-text );}.elementor-widget-form .elementor-field-group > label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .elementor-field-type-html{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .elementor-field-group .elementor-field{color:var( --e-global-color-text );}.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-form .e-form__buttons__wrapper__button-next{background-color:var( --e-global-color-accent );}.elementor-widget-form .elementor-button[type="submit"]{background-color:var( --e-global-color-accent );}.elementor-widget-form .e-form__buttons__wrapper__button-previous{background-color:var( --e-global-color-accent );}.elementor-widget-form .elementor-message{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-form .e-form__indicators__indicator, .elementor-widget-form .e-form__indicators__indicator__label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-form{--e-form-steps-indicator-inactive-primary-color:var( --e-global-color-text );--e-form-steps-indicator-active-primary-color:var( --e-global-color-accent );--e-form-steps-indicator-completed-primary-color:var( --e-global-color-accent );--e-form-steps-indicator-progress-color:var( --e-global-color-accent );--e-form-steps-indicator-progress-background-color:var( --e-global-color-text );--e-form-steps-indicator-progress-meter-color:var( --e-global-color-text );}.elementor-widget-form .e-form__indicators__indicator__progress__meter{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-login .elementor-field-group > a{color:var( --e-global-color-text );}.elementor-widget-login .elementor-field-group > a:hover{color:var( --e-global-color-accent );}.elementor-widget-login .elementor-form-fields-wrapper label{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-login .elementor-field-group .elementor-field{color:var( --e-global-color-text );}.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-login .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-login .elementor-widget-container .elementor-login__logged-in-message{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-slides .elementor-slide-heading{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-slides .elementor-slide-description{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-slides .elementor-slide-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu .elementor-item{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-accent );fill:var( --e-global-color-accent );}.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:var( --e-global-color-accent );}.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before,
+					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-animated-headline .elementor-headline-dynamic-wrapper path{stroke:var( --e-global-color-accent );}.elementor-widget-animated-headline .elementor-headline-plain-text{color:var( --e-global-color-secondary );}.elementor-widget-animated-headline .elementor-headline{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-animated-headline{--dynamic-text-color:var( --e-global-color-secondary );}.elementor-widget-animated-headline .elementor-headline-dynamic-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-hotspot .widget-image-caption{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-hotspot{--hotspot-color:var( --e-global-color-primary );--hotspot-box-color:var( --e-global-color-secondary );--tooltip-color:var( --e-global-color-secondary );}.elementor-widget-hotspot .e-hotspot__label{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-hotspot .e-hotspot__tooltip{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-price-list .elementor-price-list-header{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-list .elementor-price-list-price{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-list .elementor-price-list-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-price-list .elementor-price-list-separator{border-bottom-color:var( --e-global-color-secondary );}.elementor-widget-price-table{--e-price-table-header-background-color:var( --e-global-color-secondary );}.elementor-widget-price-table .elementor-price-table__heading{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-table .elementor-price-table__subheading{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-price-table .elementor-price-table .elementor-price-table__price{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-table .elementor-price-table__original-price{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-price-table .elementor-price-table__period{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-price-table .elementor-price-table__features-list{--e-price-table-features-list-color:var( --e-global-color-text );}.elementor-widget-price-table .elementor-price-table__features-list li{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-price-table .elementor-price-table__features-list li:before{border-top-color:var( --e-global-color-text );}.elementor-widget-price-table .elementor-price-table__button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-price-table .elementor-price-table__additional_info{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-price-table .elementor-price-table__ribbon-inner{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-flip-box .elementor-flip-box__button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-call-to-action .elementor-cta__title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-call-to-action .elementor-cta__description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-call-to-action .elementor-cta__button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-call-to-action .elementor-ribbon-inner{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-media-carousel .elementor-carousel-image-overlay{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-testimonial-carousel .elementor-testimonial__text{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial-carousel .elementor-testimonial__name{color:var( --e-global-color-text );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-testimonial-carousel .elementor-testimonial__title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-reviews .elementor-testimonial__text{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-table-of-contents{--header-color:var( --e-global-color-secondary );--item-text-color:var( --e-global-color-text );--item-text-hover-color:var( --e-global-color-accent );--marker-color:var( --e-global-color-text );}.elementor-widget-table-of-contents .elementor-toc__header, .elementor-widget-table-of-contents .elementor-toc__header-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-table-of-contents .elementor-toc__list-item{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-countdown .elementor-countdown-item{background-color:var( --e-global-color-primary );}.elementor-widget-countdown .elementor-countdown-digits{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-countdown .elementor-countdown-label{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-countdown .elementor-countdown-expire--message{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-search-form input[type="search"].elementor-search-form__input{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-search-form .elementor-search-form__input,
+					.elementor-widget-search-form .elementor-search-form__icon,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button,
+					.elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover,
+					.elementor-widget-search-form.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-widget-search-form .elementor-search-form__submit{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );background-color:var( --e-global-color-secondary );}.elementor-widget-author-box .elementor-author-box__name{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-author-box .elementor-author-box__bio{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-author-box .elementor-author-box__button{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-author-box .elementor-author-box__button:hover{border-color:var( --e-global-color-secondary );color:var( --e-global-color-secondary );}.elementor-widget-post-navigation span.post-navigation__prev--label{color:var( --e-global-color-text );}.elementor-widget-post-navigation span.post-navigation__next--label{color:var( --e-global-color-text );}.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-post-info .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-post-info .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-post-info .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-post-info .elementor-icon-list-text, .elementor-widget-post-info .elementor-icon-list-text a{color:var( --e-global-color-secondary );}.elementor-widget-post-info .elementor-icon-list-item{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-sitemap .elementor-sitemap-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-sitemap .elementor-sitemap-item{color:var( --e-global-color-text );}.elementor-widget-blockquote .elementor-blockquote__content{color:var( --e-global-color-text );}.elementor-widget-blockquote .elementor-blockquote__author{color:var( --e-global-color-secondary );}.elementor-widget-lottie{--caption-color:var( --e-global-color-text );}.elementor-widget-lottie .e-lottie__caption{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-title{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-videos-count{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-header-right-side i{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-header .e-tabs-header-right-side svg{fill:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tab-title .e-tab-title-text{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tab-title .e-tab-title-text a{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tab-title .e-tab-duration{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-title-text{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-title-text a{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-tab-title:where( .e-active, :hover ) .e-tab-duration{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-items-wrapper .e-section-title{color:var( --e-global-color-text );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-wrapper .e-inner-tab-title a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content .e-inner-tab-text{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content button{color:var( --e-global-color-text );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-video-playlist .e-tabs-inner-tabs .e-inner-tabs-content-wrapper .e-inner-tab-content button:hover{color:var( --e-global-color-text );}.elementor-widget-paypal-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-paypal-button .elementor-message{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-stripe-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-stripe-button .elementor-message{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-progress-tracker .current-progress-percentage{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}
+.elementor-3987 .elementor-element.elementor-element-6feb3a10{--display:flex;--min-height:1080px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--align-items:flex-start;--background-transition:0.3s;--padding-top:3em;--padding-bottom:3em;--padding-left:3em;--padding-right:3em;}.elementor-3987 .elementor-element.elementor-element-6feb3a10:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-6feb3a10 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lacasadigital.com.br/wp-content/uploads/2024/05/BGs-CCOMBO-LACASA-DIGITAL_01.webp");background-position:top center;background-repeat:no-repeat;background-size:auto;}.elementor-3987 .elementor-element.elementor-element-6feb3a10, .elementor-3987 .elementor-element.elementor-element-6feb3a10::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-742e8b48{--display:flex;--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--background-transition:0.3s;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-742e8b48.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-4ec0fa9a{width:var( --container-widget-width, 55% );max-width:55%;--container-widget-width:55%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-49e45434{text-align:center;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-49e45434 .elementor-heading-title{color:#1C2021;font-family:"Zumme", Sans-serif;font-size:2.6em;font-weight:700;line-height:100%;}.elementor-3987 .elementor-element.elementor-element-49e45434.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-67fbf68{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:1.1em;font-weight:700;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-602f8314{--display:flex;--justify-content:center;--align-items:flex-start;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--background-transition:0.3s;--overlay-opacity:0.5;--border-radius:5px 5px 5px 5px;box-shadow:-5px 7px 10px 0px rgba(0, 0, 0, 0.13);--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-602f8314::before, .elementor-3987 .elementor-element.elementor-element-602f8314 > .elementor-background-video-container::before, .elementor-3987 .elementor-element.elementor-element-602f8314 > .e-con-inner > .elementor-background-video-container::before, .elementor-3987 .elementor-element.elementor-element-602f8314 > .elementor-background-slideshow::before, .elementor-3987 .elementor-element.elementor-element-602f8314 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3987 .elementor-element.elementor-element-602f8314 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-3987 .elementor-element.elementor-element-602f8314, .elementor-3987 .elementor-element.elementor-element-602f8314::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-602f8314.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-c6a10ea{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:1.1em;font-weight:700;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-79cd6856{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-weight:400;text-transform:uppercase;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-79cd6856 > .elementor-widget-container{margin:-1.9em 0em 0em 0em;}.elementor-3987 .elementor-element.elementor-element-581fb3be{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:2em;font-weight:700;text-transform:uppercase;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-581fb3be > .elementor-widget-container{margin:-1em -1em -1em -1em;}.elementor-3987 .elementor-element.elementor-element-581fb3be.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-2f0d1e3a .elementor-button{font-family:"Sora", Sans-serif;font-size:1.25em;font-weight:700;text-shadow:0px 0px 10px rgba(0,0,0,0.3);background-color:transparent;background-image:linear-gradient(90deg, #FF9120 0%, #FF05E3 100%);padding:1em 01.5em 1em 1.5em;}.elementor-3987 .elementor-element.elementor-element-2f0d1e3a{width:var( --container-widget-width, 105.561% );max-width:105.561%;--container-widget-width:105.561%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-2f0d1e3a.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-3d712fa8{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:0.7em;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-9bb60c9{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--align-items:center;--background-transition:0.3s;--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;--padding-top:3em;--padding-bottom:0em;--padding-left:0em;--padding-right:0em;}.elementor-3987 .elementor-element.elementor-element-1b29dc7{text-align:center;width:var( --container-widget-width, 45% );max-width:45%;--container-widget-width:45%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-1b29dc7 .elementor-heading-title{color:#1C2021;font-family:"Zumme", Sans-serif;font-size:3em;font-weight:700;line-height:100%;}.elementor-3987 .elementor-element.elementor-element-1b29dc7.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-0718a92{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:1.1em;font-weight:700;width:var( --container-widget-width, 46% );max-width:46%;--container-widget-width:46%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-5131bb7 .elementor-button{font-family:"Sora", Sans-serif;font-size:1.25em;font-weight:700;text-shadow:0px 0px 10px rgba(0,0,0,0.3);background-color:transparent;background-image:linear-gradient(90deg, #FF9120 0%, #FF05E3 100%);padding:1em 01.5em 1em 1.5em;}.elementor-3987 .elementor-element.elementor-element-5131bb7{width:var( --container-widget-width, 105.561% );max-width:105.561%;--container-widget-width:105.561%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-5131bb7.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-0da8f80{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:0.7em;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-5044041c{--display:flex;--min-height:1000px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--align-items:center;--background-transition:0.3s;--overlay-opacity:0.26;--padding-top:0em;--padding-bottom:0em;--padding-left:3em;--padding-right:3em;}.elementor-3987 .elementor-element.elementor-element-5044041c::before, .elementor-3987 .elementor-element.elementor-element-5044041c > .elementor-background-video-container::before, .elementor-3987 .elementor-element.elementor-element-5044041c > .e-con-inner > .elementor-background-video-container::before, .elementor-3987 .elementor-element.elementor-element-5044041c > .elementor-background-slideshow::before, .elementor-3987 .elementor-element.elementor-element-5044041c > .e-con-inner > .elementor-background-slideshow::before, .elementor-3987 .elementor-element.elementor-element-5044041c > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-3987 .elementor-element.elementor-element-5044041c, .elementor-3987 .elementor-element.elementor-element-5044041c::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-6d3c8e2d{text-align:center;width:var( --container-widget-width, 45% );max-width:45%;--container-widget-width:45%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-6d3c8e2d .elementor-heading-title{color:#1C2021;font-family:"Zumme", Sans-serif;font-size:3em;font-weight:700;line-height:100%;}.elementor-3987 .elementor-element.elementor-element-6d3c8e2d.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-eeed597{text-align:center;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-eeed597 .elementor-heading-title{color:#1C2021;font-family:"Sora", Sans-serif;font-size:1.5em;font-weight:400;text-transform:uppercase;letter-spacing:3.4px;}.elementor-3987 .elementor-element.elementor-element-3c7ad146{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--background-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-7caf380e .elementor-icon-box-wrapper{text-align:left;}.elementor-3987 .elementor-element.elementor-element-7caf380e{--icon-box-icon-margin:15px;width:var( --container-widget-width, 33.33% );max-width:33.33%;--container-widget-width:33.33%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-7caf380e.elementor-view-stacked .elementor-icon{background-color:#E0561A;}.elementor-3987 .elementor-element.elementor-element-7caf380e.elementor-view-framed .elementor-icon, .elementor-3987 .elementor-element.elementor-element-7caf380e.elementor-view-default .elementor-icon{fill:#E0561A;color:#E0561A;border-color:#E0561A;}.elementor-3987 .elementor-element.elementor-element-7caf380e .elementor-icon-box-title, .elementor-3987 .elementor-element.elementor-element-7caf380e .elementor-icon-box-title a{font-family:"Sora", Sans-serif;font-weight:600;}.elementor-3987 .elementor-element.elementor-element-7caf380e .elementor-icon-box-description{color:#000000;font-family:"Inter", Sans-serif;}.elementor-3987 .elementor-element.elementor-element-7caf380e > .elementor-widget-container{padding:2em 2em 2em 2em;background-color:#F2F2F2;border-radius:10px 10px 10px 10px;}.elementor-3987 .elementor-element.elementor-element-5037a243 .elementor-icon-box-wrapper{text-align:left;}.elementor-3987 .elementor-element.elementor-element-5037a243{--icon-box-icon-margin:15px;width:var( --container-widget-width, 33.33% );max-width:33.33%;--container-widget-width:33.33%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-5037a243.elementor-view-stacked .elementor-icon{background-color:#E0561A;}.elementor-3987 .elementor-element.elementor-element-5037a243.elementor-view-framed .elementor-icon, .elementor-3987 .elementor-element.elementor-element-5037a243.elementor-view-default .elementor-icon{fill:#E0561A;color:#E0561A;border-color:#E0561A;}.elementor-3987 .elementor-element.elementor-element-5037a243 .elementor-icon-box-title, .elementor-3987 .elementor-element.elementor-element-5037a243 .elementor-icon-box-title a{font-family:"Sora", Sans-serif;font-weight:600;}.elementor-3987 .elementor-element.elementor-element-5037a243 .elementor-icon-box-description{color:#000000;font-family:"Inter", Sans-serif;}.elementor-3987 .elementor-element.elementor-element-5037a243 > .elementor-widget-container{padding:2em 2em 2em 2em;background-color:#F2F2F2;border-radius:10px 10px 10px 10px;}.elementor-3987 .elementor-element.elementor-element-42fc2775 .elementor-icon-box-wrapper{text-align:left;}.elementor-3987 .elementor-element.elementor-element-42fc2775{--icon-box-icon-margin:15px;width:var( --container-widget-width, 33.33% );max-width:33.33%;--container-widget-width:33.33%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-42fc2775.elementor-view-stacked .elementor-icon{background-color:#E0561A;}.elementor-3987 .elementor-element.elementor-element-42fc2775.elementor-view-framed .elementor-icon, .elementor-3987 .elementor-element.elementor-element-42fc2775.elementor-view-default .elementor-icon{fill:#E0561A;color:#E0561A;border-color:#E0561A;}.elementor-3987 .elementor-element.elementor-element-42fc2775 .elementor-icon-box-title, .elementor-3987 .elementor-element.elementor-element-42fc2775 .elementor-icon-box-title a{font-family:"Sora", Sans-serif;font-weight:600;}.elementor-3987 .elementor-element.elementor-element-42fc2775 .elementor-icon-box-description{color:#000000;font-family:"Inter", Sans-serif;}.elementor-3987 .elementor-element.elementor-element-42fc2775 > .elementor-widget-container{padding:2em 2em 2em 2em;background-color:#F2F2F2;border-radius:10px 10px 10px 10px;}.elementor-3987 .elementor-element.elementor-element-fa47982 .elementor-button{font-family:"Sora", Sans-serif;font-size:1.25em;font-weight:700;text-shadow:0px 0px 10px rgba(0,0,0,0.3);background-color:transparent;background-image:linear-gradient(90deg, #FF9120 0%, #FF05E3 100%);padding:1em 01.5em 1em 1.5em;}.elementor-3987 .elementor-element.elementor-element-fa47982{width:var( --container-widget-width, 105.561% );max-width:105.561%;--container-widget-width:105.561%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-fa47982.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-b967b36{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--align-items:center;--background-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-8b9e26d{--display:flex;--justify-content:center;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--background-transition:0.3s;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-8b9e26d.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-50f340e{width:var( --container-widget-width, 55% );max-width:55%;--container-widget-width:55%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-cc7fbd2{text-align:center;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-cc7fbd2 .elementor-heading-title{color:#1C2021;font-family:"Zumme", Sans-serif;font-size:2.7em;font-weight:700;line-height:100%;}.elementor-3987 .elementor-element.elementor-element-cc7fbd2.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-icon i{color:#FF4B81;transition:color 0.3s;}.elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-icon svg{fill:#FF4B81;transition:fill 0.3s;}.elementor-3987 .elementor-element.elementor-element-5c59c85{--e-icon-list-icon-size:14px;--icon-vertical-align:flex-start;--icon-vertical-offset:9px;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-item > a{font-family:"Sora", Sans-serif;font-size:1.2em;}.elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-text{color:#1C2021;transition:color 0.3s;}.elementor-3987 .elementor-element.elementor-element-fda5a4e{--display:flex;--justify-content:center;--align-items:flex-start;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--background-transition:0.3s;--overlay-opacity:0.5;--border-radius:5px 5px 5px 5px;box-shadow:-5px 7px 10px 0px rgba(0, 0, 0, 0.13);--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-fda5a4e::before, .elementor-3987 .elementor-element.elementor-element-fda5a4e > .elementor-background-video-container::before, .elementor-3987 .elementor-element.elementor-element-fda5a4e > .e-con-inner > .elementor-background-video-container::before, .elementor-3987 .elementor-element.elementor-element-fda5a4e > .elementor-background-slideshow::before, .elementor-3987 .elementor-element.elementor-element-fda5a4e > .e-con-inner > .elementor-background-slideshow::before, .elementor-3987 .elementor-element.elementor-element-fda5a4e > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{--background-overlay:'';}.elementor-3987 .elementor-element.elementor-element-fda5a4e, .elementor-3987 .elementor-element.elementor-element-fda5a4e::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-fda5a4e.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-1da5cd4{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:1.1em;font-weight:700;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-2fffa19{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-weight:400;text-transform:uppercase;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-2fffa19 > .elementor-widget-container{margin:-1.9em 0em 0em 0em;}.elementor-3987 .elementor-element.elementor-element-13506a4{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:2em;font-weight:700;text-transform:uppercase;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-13506a4 > .elementor-widget-container{margin:-1em -1em -1em -1em;}.elementor-3987 .elementor-element.elementor-element-13506a4.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-45eb1cf .elementor-button{font-family:"Sora", Sans-serif;font-size:1.25em;font-weight:700;text-shadow:0px 0px 10px rgba(0,0,0,0.3);background-color:transparent;background-image:linear-gradient(90deg, #FF9120 0%, #FF05E3 100%);padding:1em 01.5em 1em 1.5em;}.elementor-3987 .elementor-element.elementor-element-45eb1cf{width:var( --container-widget-width, 105.561% );max-width:105.561%;--container-widget-width:105.561%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-45eb1cf.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-66e4a71{text-align:center;color:#1C2021;font-family:"Sora", Sans-serif;font-size:0.7em;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-46cda371{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--gap:0px 0px;--background-transition:0.3s;--padding-top:4em;--padding-bottom:4em;--padding-left:4em;--padding-right:4em;}.elementor-3987 .elementor-element.elementor-element-46cda371, .elementor-3987 .elementor-element.elementor-element-46cda371::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-5c57582e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--border-radius:20px 0px 0px 20px;--padding-top:3em;--padding-bottom:3em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-5c57582e:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-5c57582e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#1C2021;}.elementor-3987 .elementor-element.elementor-element-5c57582e, .elementor-3987 .elementor-element.elementor-element-5c57582e::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-1b687840{width:var( --container-widget-width, 71% );max-width:71%;--container-widget-width:71%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-1b687840.elementor-element{--align-self:center;}.elementor-3987 .elementor-element.elementor-element-4b21e9b2{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--background-transition:0.3s;--border-radius:0px 20px 20px 0px;--padding-top:3em;--padding-bottom:3em;--padding-left:0em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-4b21e9b2:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-4b21e9b2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#1C2021;}.elementor-3987 .elementor-element.elementor-element-4b21e9b2, .elementor-3987 .elementor-element.elementor-element-4b21e9b2::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-633d2ea2{text-align:left;width:var( --container-widget-width, 55.422% );max-width:55.422%;--container-widget-width:55.422%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-633d2ea2 .elementor-heading-title{color:#FFFFFF;font-family:"Zumme", Sans-serif;font-size:3em;font-weight:700;line-height:100%;}.elementor-3987 .elementor-element.elementor-element-633d2ea2.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-1596ba88{text-align:left;color:#FFFFFF;font-family:"Sora", Sans-serif;font-size:1.1em;font-weight:400;width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-6ce43098{--display:flex;--min-height:800px;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--justify-content:center;--gap:20px 20px;--background-transition:0.3s;--padding-top:4em;--padding-bottom:4em;--padding-left:4em;--padding-right:4em;}.elementor-3987 .elementor-element.elementor-element-6ce43098:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-6ce43098 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lacasadigital.com.br/wp-content/webp-express/webp-images/uploads/2024/05/BGs-CCOMBO-LACASA-DIGITAL_02.jpg.webp");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-3987 .elementor-element.elementor-element-6ce43098, .elementor-3987 .elementor-element.elementor-element-6ce43098::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-6fc45ecc{text-align:left;width:var( --container-widget-width, 55.422% );max-width:55.422%;--container-widget-width:55.422%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-6fc45ecc .elementor-heading-title{color:#1C2021;font-family:"Zumme", Sans-serif;font-size:3em;font-weight:700;line-height:100%;}.elementor-3987 .elementor-element.elementor-element-6fc45ecc.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-3987 .elementor-element.elementor-element-660dab99{text-align:left;color:#1C2021;font-family:"Sora", Sans-serif;font-size:1.1em;font-weight:400;width:var( --container-widget-width, 45% );max-width:45%;--container-widget-width:45%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-730179c2{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;--padding-top:1em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-730179c2:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-730179c2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-3987 .elementor-element.elementor-element-730179c2, .elementor-3987 .elementor-element.elementor-element-730179c2::before{--border-transition:0.3s;}.elementor-3987 .elementor-element.elementor-element-6bda41e6 img{width:13%;filter:brightness( 200% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-3987 .elementor-element.elementor-element-6de0bc9f{text-align:center;color:#FFFFFF;}body.elementor-page-3987:not(.elementor-motion-effects-element-type-background), body.elementor-page-3987 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#A0D5DE;}@media(max-width:767px){.elementor-3987 .elementor-element.elementor-element-6feb3a10{--justify-content:flex-start;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:12.4em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-6feb3a10:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-6feb3a10 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lacasadigital.com.br/wp-content/uploads/2024/05/bg-mobile-combo.webp");background-position:top center;background-size:contain;}.elementor-3987 .elementor-element.elementor-element-742e8b48{--padding-top:2em;--padding-bottom:2em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-4ec0fa9a img{max-width:65%;}.elementor-3987 .elementor-element.elementor-element-4ec0fa9a{width:var( --container-widget-width, 72% );max-width:72%;--container-widget-width:72%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-49e45434{text-align:center;width:100%;max-width:100%;}.elementor-3987 .elementor-element.elementor-element-49e45434 .elementor-heading-title{font-size:1.8em;}.elementor-3987 .elementor-element.elementor-element-49e45434 > .elementor-widget-container{margin:0.2em 0em -0.8em 0em;}.elementor-3987 .elementor-element.elementor-element-67fbf68{font-size:1em;--container-widget-width:79%;--container-widget-flex-grow:0;width:var( --container-widget-width, 79% );max-width:79%;}.elementor-3987 .elementor-element.elementor-element-67fbf68 > .elementor-widget-container{margin:0em 0em -1.5em 0em;}.elementor-3987 .elementor-element.elementor-element-602f8314{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--padding-top:2em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-c6a10ea{font-size:1em;--container-widget-width:79%;--container-widget-flex-grow:0;width:var( --container-widget-width, 79% );max-width:79%;}.elementor-3987 .elementor-element.elementor-element-c6a10ea > .elementor-widget-container{margin:0em 0em -1.5em 0em;}.elementor-3987 .elementor-element.elementor-element-79cd6856 > .elementor-widget-container{margin:0em 0em -1.8em 0em;}.elementor-3987 .elementor-element.elementor-element-581fb3be{font-size:2.4em;}.elementor-3987 .elementor-element.elementor-element-581fb3be > .elementor-widget-container{margin:0em 0em -0.4em 0em;}.elementor-3987 .elementor-element.elementor-element-2f0d1e3a .elementor-button{font-size:1.1em;line-height:1.5em;padding:1em 1em 1em 1em;}.elementor-3987 .elementor-element.elementor-element-9bb60c9{--margin-top:0em;--margin-bottom:0em;--margin-left:0em;--margin-right:0em;--padding-top:3em;--padding-bottom:3em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-1b29dc7{text-align:center;width:var( --container-widget-width, 88% );max-width:88%;--container-widget-width:88%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-1b29dc7 .elementor-heading-title{font-size:2em;}.elementor-3987 .elementor-element.elementor-element-1b29dc7 > .elementor-widget-container{margin:-0.9em 0em -0.8em 0em;}.elementor-3987 .elementor-element.elementor-element-0718a92{font-size:1em;--container-widget-width:79%;--container-widget-flex-grow:0;width:var( --container-widget-width, 79% );max-width:79%;}.elementor-3987 .elementor-element.elementor-element-0718a92 > .elementor-widget-container{margin:0em 0em -1.5em 0em;}.elementor-3987 .elementor-element.elementor-element-5131bb7 .elementor-button{font-size:1.1em;line-height:1.5em;padding:1em 1em 1em 1em;}.elementor-3987 .elementor-element.elementor-element-5044041c{--min-height:823px;--justify-content:flex-start;--padding-top:1em;--padding-bottom:3em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-6d3c8e2d{text-align:center;width:var( --container-widget-width, 81% );max-width:81%;--container-widget-width:81%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-6d3c8e2d .elementor-heading-title{font-size:2em;}.elementor-3987 .elementor-element.elementor-element-6d3c8e2d > .elementor-widget-container{margin:-0.9em 0em -0.8em 0em;}.elementor-3987 .elementor-element.elementor-element-eeed597{text-align:center;--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-3987 .elementor-element.elementor-element-eeed597 .elementor-heading-title{font-size:1.3em;}.elementor-3987 .elementor-element.elementor-element-eeed597 > .elementor-widget-container{margin:1em 0em 0em 0em;}.elementor-3987 .elementor-element.elementor-element-3c7ad146{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-3987 .elementor-element.elementor-element-7caf380e{--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-3987 .elementor-element.elementor-element-5037a243{--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-3987 .elementor-element.elementor-element-42fc2775{--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-3987 .elementor-element.elementor-element-fa47982 .elementor-button{font-size:1.1em;line-height:1.5em;padding:1em 1em 1em 1em;}.elementor-3987 .elementor-element.elementor-element-8b9e26d{--padding-top:2em;--padding-bottom:2em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-50f340e img{max-width:65%;}.elementor-3987 .elementor-element.elementor-element-50f340e{width:var( --container-widget-width, 72% );max-width:72%;--container-widget-width:72%;--container-widget-flex-grow:0;}.elementor-3987 .elementor-element.elementor-element-cc7fbd2{text-align:center;width:100%;max-width:100%;}.elementor-3987 .elementor-element.elementor-element-cc7fbd2 .elementor-heading-title{font-size:2.1em;}.elementor-3987 .elementor-element.elementor-element-cc7fbd2 > .elementor-widget-container{margin:0.2em 0em -0.1em 0em;}.elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-item > .elementor-icon-list-text, .elementor-3987 .elementor-element.elementor-element-5c59c85 .elementor-icon-list-item > a{font-size:1em;}.elementor-3987 .elementor-element.elementor-element-5c59c85{--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-3987 .elementor-element.elementor-element-fda5a4e{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--padding-top:2em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-1da5cd4{font-size:1em;--container-widget-width:79%;--container-widget-flex-grow:0;width:var( --container-widget-width, 79% );max-width:79%;}.elementor-3987 .elementor-element.elementor-element-1da5cd4 > .elementor-widget-container{margin:0em 0em -1.5em 0em;}.elementor-3987 .elementor-element.elementor-element-2fffa19 > .elementor-widget-container{margin:0em 0em -1.8em 0em;}.elementor-3987 .elementor-element.elementor-element-13506a4{font-size:2.4em;}.elementor-3987 .elementor-element.elementor-element-13506a4 > .elementor-widget-container{margin:0em 0em -0.4em 0em;}.elementor-3987 .elementor-element.elementor-element-45eb1cf .elementor-button{font-size:1.1em;line-height:1.5em;padding:1em 1em 1em 1em;}.elementor-3987 .elementor-element.elementor-element-46cda371{--padding-top:1em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-5c57582e{--border-radius:20px 20px 0px 0px;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-4b21e9b2{--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--border-radius:0px 0px 20px 20px;--padding-top:0em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-3987 .elementor-element.elementor-element-633d2ea2{text-align:center;width:100%;max-width:100%;}.elementor-3987 .elementor-element.elementor-element-633d2ea2 .elementor-heading-title{font-size:2em;}.elementor-3987 .elementor-element.elementor-element-633d2ea2 > .elementor-widget-container{margin:-0.9em 0em -0.8em 0em;}.elementor-3987 .elementor-element.elementor-element-1596ba88{text-align:left;font-size:1em;--container-widget-width:96%;--container-widget-flex-grow:0;width:var( --container-widget-width, 96% );max-width:96%;}.elementor-3987 .elementor-element.elementor-element-6ce43098{--min-height:954px;--justify-content:flex-end;--padding-top:1em;--padding-bottom:1em;--padding-left:1em;--padding-right:1em;}.elementor-3987 .elementor-element.elementor-element-6ce43098:not(.elementor-motion-effects-element-type-background), .elementor-3987 .elementor-element.elementor-element-6ce43098 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://lacasadigital.com.br/wp-content/webp-express/webp-images/uploads/2024/05/BG-2-COMBO-LCP3.jpg.webp");background-position:top center;background-size:contain;}.elementor-3987 .elementor-element.elementor-element-6fc45ecc{text-align:center;width:100%;max-width:100%;}.elementor-3987 .elementor-element.elementor-element-6fc45ecc .elementor-heading-title{font-size:2em;}.elementor-3987 .elementor-element.elementor-element-6fc45ecc > .elementor-widget-container{margin:-0.9em 0em -0.8em 0em;}.elementor-3987 .elementor-element.elementor-element-660dab99{text-align:left;font-size:1em;line-height:1.5em;--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-3987 .elementor-element.elementor-element-6bda41e6 img{width:36%;}}@media(min-width:768px){.elementor-3987 .elementor-element.elementor-element-6feb3a10{--content-width:1280px;}.elementor-3987 .elementor-element.elementor-element-742e8b48{--width:41.938%;}.elementor-3987 .elementor-element.elementor-element-602f8314{--width:94%;}.elementor-3987 .elementor-element.elementor-element-5044041c{--content-width:1280px;}.elementor-3987 .elementor-element.elementor-element-8b9e26d{--width:41.938%;}.elementor-3987 .elementor-element.elementor-element-fda5a4e{--width:94%;}.elementor-3987 .elementor-element.elementor-element-5c57582e{--width:50%;}.elementor-3987 .elementor-element.elementor-element-4b21e9b2{--width:50%;}.elementor-3987 .elementor-element.elementor-element-730179c2{--content-width:1280px;}}/* Start custom CSS for heading, class: .elementor-element-49e45434 */.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-2f0d1e3a */.elementor-3987 .elementor-element.elementor-element-2f0d1e3a{
+    width: fit-content !important;
+    overflow: hidden;
+}
+
+.elementor-3987 .elementor-element.elementor-element-2f0d1e3a .elementor-button:hover::before {
+  animation: brilho 0.8s linear;
+}
+
+.elementor-3987 .elementor-element.elementor-element-2f0d1e3a .elementor-button::before {
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  background: #ffffff;
+  box-shadow: 0 0 30px 20px #ffffffaa;
+  transform: skewX(-30deg);
+  mix-blend-mode: plus-lighter;
+}
+
+@keyframes brilho {
+  0% {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: 100%;
+  }
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-602f8314 */.elementor-3987 .elementor-element.elementor-element-602f8314 {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 5px;
+    bottom: 0px;
+    border-top:  2px solid;
+    border-image: linear-gradient(to left, transparent, #FF9120, #FE739A , #FF05E3, transparent) 1;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-742e8b48 */.elementor-3987 .elementor-element.elementor-element-742e8b48 {
+    background: #fff;
+    background: linear-gradient(180deg, #FFF 0%, #64B0AB 100%);
+    -backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 15px );
+    border-radius: 5px;
+    bottom: 0px;
+    opacity: 9.2;
+    border-top:  2px solid;
+    border-image: linear-gradient(to left, transparent, #FF9120, #FE739A , #FF05E3, transparent) 1;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-6feb3a10 */.elementor-3987 .elementor-element.elementor-element-6feb3a10 {
+    
+    border-bottom: 1px solid;
+    border-image: linear-gradient(90deg,#F2298200,  #E0561A, #F2298200) 1;
+ border-left:0px;
+ border-right:0px;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-1b29dc7 */.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-5131bb7 */.elementor-3987 .elementor-element.elementor-element-5131bb7{
+    width: fit-content !important;
+    overflow: hidden;
+}
+
+.elementor-3987 .elementor-element.elementor-element-5131bb7 .elementor-button:hover::before {
+  animation: brilho 0.8s linear;
+}
+
+.elementor-3987 .elementor-element.elementor-element-5131bb7 .elementor-button::before {
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  background: #ffffff;
+  box-shadow: 0 0 30px 20px #ffffffaa;
+  transform: skewX(-30deg);
+  mix-blend-mode: plus-lighter;
+}
+
+@keyframes brilho {
+  0% {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: 100%;
+  }
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-6d3c8e2d */.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-fa47982 */.elementor-3987 .elementor-element.elementor-element-fa47982{
+    width: fit-content !important;
+    overflow: hidden;
+}
+
+.elementor-3987 .elementor-element.elementor-element-fa47982 .elementor-button:hover::before {
+  animation: brilho 0.8s linear;
+}
+
+.elementor-3987 .elementor-element.elementor-element-fa47982 .elementor-button::before {
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  background: #ffffff;
+  box-shadow: 0 0 30px 20px #ffffffaa;
+  transform: skewX(-30deg);
+  mix-blend-mode: plus-lighter;
+}
+
+@keyframes brilho {
+  0% {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: 100%;
+  }
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-cc7fbd2 */.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-45eb1cf */.elementor-3987 .elementor-element.elementor-element-45eb1cf{
+    width: fit-content !important;
+    overflow: hidden;
+}
+
+.elementor-3987 .elementor-element.elementor-element-45eb1cf .elementor-button:hover::before {
+  animation: brilho 0.8s linear;
+}
+
+.elementor-3987 .elementor-element.elementor-element-45eb1cf .elementor-button::before {
+  content: "";
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  background: #ffffff;
+  box-shadow: 0 0 30px 20px #ffffffaa;
+  transform: skewX(-30deg);
+  mix-blend-mode: plus-lighter;
+}
+
+@keyframes brilho {
+  0% {
+    opacity: 0;
+    left: 0%;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: 100%;
+  }
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-fda5a4e */.elementor-3987 .elementor-element.elementor-element-fda5a4e {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 5px;
+    bottom: 0px;
+    border-top:  2px solid;
+    border-image: linear-gradient(to left, transparent, #FF9120, #FE739A , #FF05E3, transparent) 1;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-8b9e26d */.elementor-3987 .elementor-element.elementor-element-8b9e26d {
+    background: #fff;
+    background: linear-gradient(180deg, #FFF 0%, #64B0AB 100%);
+    -backdrop-filter: blur( 20px );
+    -webkit-backdrop-filter: blur( 15px );
+    border-radius: 5px;
+    bottom: 0px;
+    opacity: 9.2;
+    border-top:  2px solid;
+    border-image: linear-gradient(to left, transparent, #FF9120, #FE739A , #FF05E3, transparent) 1;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-633d2ea2 */.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-6fc45ecc */.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-730179c2 */.elementor-3987 .elementor-element.elementor-element-730179c2  {
+    border-top:  2px solid;
+    border-image: linear-gradient(to left, transparent, #FF9120, #FE739A , #FF05E3, transparent) 1;
+}/* End custom CSS */
+/* Start custom CSS */html, body{
+    
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.destaque{
+    background: linear-gradient(270deg, #FF9120 0%, #FE739A 51%, #FF05E3 100%);
+    color: #fff; /* cor do texto */
+    width: 100%;
+    height: 10%;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    line-height: 120%;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+
+
+
+/* Firefox */
+* {
+  scrollbar-width: 12px;
+  scrollbar-color: /* Cor principal */ #01E6EA /* Cor fundo */ #202020;
+}
+
+/* Chrome, Edge e Safari */
+body::-webkit-scrollbar {
+width: 12px !important;
+}
+
+body::-webkit-scrollbar-track {
+background: #202020 !important;
+}
+
+body::-webkit-scrollbar-thumb {
+background-color: #01E6EA !important;
+
+border-radius: 0px !important;
+
+border: 2px solid #202020 !important;
+
+}
+
+
+
+
+
+/*===============================*/
+/*        Scroll GSAP        */
+/*não mexa em nada daqui pra baixo*/
+body.elementor-editor-active::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    pointer-events: none;
+    z-index: 1000;
+    min-height: 100vh;
+    width: calc(100% - (2 * var(--offset)));
+    max-width: var(--largura);
+    background-size: calc(100% + var(--gutter)) 100%;
+    background-image: repeating-linear-gradient( to right, var(--cor), var(--cor) calc((100% / var(--colunas)) - var(--gutter)), transparent calc((100% / var(--colunas)) - var(--gutter)), transparent calc(100% / var(--colunas)) );
+}
+
+.scroll-bottom{
+    opacity: 0;
+    transition: 0.8s;
+    transform: translate(0px, 30px);
+}
+
+.scroll-top{
+    opacity: 0;
+    transition: 0.8s;
+    transform: translate(0px, -30px);
+}
+
+.scroll-left{
+    opacity: 0;
+    transition: 0.8s;
+    transform: translate(-30px, 0px);
+}
+
+.scroll-right{
+    opacity: 0;
+    transition: 0.8s;
+    transform: translate(30px, 0px);
+}
+
+.elementor-editor-active .scroll-bottom,
+.elementor-editor-active .scroll-top,
+.elementor-editor-active .scroll-left,
+.elementor-editor-active .scroll-right,
+.ativo{
+    opacity: 1;
+    transition: 0.8s;
+    transform: translatey(0px);
+}
+
+
+.delay1{
+    transition-delay: 0.2s
+}
+
+.delay2{
+    transition-delay: 0.4s
+}
+
+.delay2{
+    transition-delay: 0.3s
+}
+
+
+
+
+
+
+
+
+
+
+/*===============================*/
+/*              GRID             */
+/*para desktop*/
+@media (min-width: 1025px){
+    :root{
+        --colunas: 12;
+        --largura: 1280px;
+        --offset: 0px;
+        --gutter: 20px;
+        --cor: #ffffff10;
+    }
+}
+
+/*para tablet*/
+@media (min-width: 768px) and (max-width: 1024px){
+    :root{
+        --colunas: 6;
+        --largura: 1024px;
+        --offset: 48px;
+        --gutter: 16px;
+        --cor: #ffffff10;
+    }
+}
+
+/*para mobile*/
+@media (max-width: 767px){
+    :root{
+        --colunas: 4;
+        --largura: 767px;
+        --offset: 20px;
+        --gutter: 8px;
+        --cor: #ffffff10;
+    }
+}
+
+/*não mexa em nada daqui pra baixo*/
+body.elementor-editor-active::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    pointer-events: none;
+    z-index: 1000;
+    min-height: 100vh;
+    width: calc(100% - (2 * var(--offset)));
+    max-width: var(--largura);
+    background-size: calc(100% + var(--gutter)) 100%;
+    background-image: repeating-linear-gradient( to right, var(--cor), var(--cor) calc((100% / var(--colunas)) - var(--gutter)), transparent calc((100% / var(--colunas)) - var(--gutter)), transparent calc(100% / var(--colunas)) );
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Zumme';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Regular.eot');
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Regular.woff2') format('woff2'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Regular.woff') format('woff'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Zumme';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Bold.eot');
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Bold.woff2') format('woff2'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Bold.woff') format('woff'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2023/09/Zuume-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Bold.eot');
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Bold.eot?#iefix') format('embedded-opentype'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Bold.woff2') format('woff2'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Bold.woff') format('woff'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Bold.ttf') format('truetype'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Bold.svg#Sora') format('svg');
+}
+@font-face {
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Light.eot');
+	src: url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Light.woff2') format('woff2'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Light.woff') format('woff'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Light.ttf') format('truetype'),
+		url('https://lacasadigital.com.br/wp-content/uploads/2024/05/Sora-Light.svg#Sora') format('svg');
+}
+/* End Custom Fonts CSS */
+</style>
+<link rel='stylesheet' id='swiper-css' href='https://lacasadigital.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://lacasadigital.com.br/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.21.2' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://lacasadigital.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://lacasadigital.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="https://lacasadigital.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/handl-utm-grabber/js/js.cookie.js?ver=6.5.3" id="js.cookie-js"></script>
+<script id="handl-utm-grabber-js-extra">
+var handl_utm = {"utm_source":"youtube","utm_medium":"ads_gg","utm_term":"[LCD3] 02 ENGAJAMENTO 540D - EXCLUINDO TODAS AS LISTAS","utm_content":"AD 01 COMBO LIBERDADE","utm_campaign":"[GERA\u00c7\u00c3O] [COMPRAS] [LCD3] [3EBOOKS] [YOUTUBE] [QUENTE]","gclid":"CjwKCAjwrvyxBhAbEiwAEg_Kgg6XTTs99AiOM39d7aJqho-HgsmJiomeW3qoEAoZU_ueuJPzsDaXlxoCTtMQAvD_BwE"};
+</script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/handl-utm-grabber/js/handl-utm-grabber.js?ver=6.5.3" id="handl-utm-grabber-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.5.3" id="jquery-bind-first-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3" id="js-cookie-pys-js"></script>
+<script id="pys-js-extra">
+var pysOptions = {"staticEvents":{"facebook":{"init_event":[{"delay":0,"type":"static","name":"PageView","pixelIds":["608209829624734"],"eventID":"990a6cc8-4c2a-4e3b-9c76-89c0a5da6331","params":{"page_title":"Combo Liberdade","post_type":"page","post_id":3987,"plugin":"PixelYourSite","user_role":"guest","event_url":"lacasadigital.com.br\/liberdade\/"},"e_id":"init_event","ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":[],"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["608209829624734"],"advancedMatching":[],"advancedMatchingEnabled":false,"removeMetadata":false,"contentParams":{"post_type":"page","post_id":3987,"content_name":"Combo Liberdade"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"serverApiEnabled":true,"wooCRSendFromServer":false,"send_external_id":null},"debug":"","siteUrl":"https:\/\/lacasadigital.com.br","ajaxUrl":"https:\/\/lacasadigital.com.br\/wp-admin\/admin-ajax.php","ajax_event":"629e0202bb","enable_remove_download_url_param":"1","cookie_duration":"7","last_visit_duration":"60","enable_success_send_form":"","ajaxForServerEvent":"1","send_external_id":"1","external_id_expire":"180","google_consent_mode":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"externalID_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_tiktok_consent_category":"marketing","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false,"analytics_storage":{"enabled":true,"value":"granted","filter":false},"ad_storage":{"enabled":true,"value":"granted","filter":false},"ad_user_data":{"enabled":true,"value":"granted","filter":false},"ad_personalization":{"enabled":true,"value":"granted","filter":false}},"cookie":{"disabled_all_cookie":false,"disabled_start_session_cookie":false,"disabled_advanced_form_data_cookie":false,"disabled_landing_page_cookie":false,"disabled_first_visit_cookie":false,"disabled_trafficsource_cookie":false,"disabled_utmTerms_cookie":false,"disabled_utmId_cookie":false},"tracking_analytics":{"TrafficSource":"direct","TrafficLanding":"https:\/\/lacasadigital.com.br\/liberdade\/","TrafficUtms":{"utm_source":"youtube","utm_medium":"ads_gg","utm_campaign":"[GERA\u00c7\u00c3O] [COMPRAS] [LCD3] [3EBOOKS] [YOUTUBE] [QUENTE]","utm_term":"[LCD3] 02 ENGAJAMENTO 540D - EXCLUINDO TODAS AS LISTAS","utm_content":"AD 01 COMBO LIBERDADE"},"TrafficUtmsId":[]},"woo":{"enabled":false},"edd":{"enabled":false}};
+</script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.5.5" id="pys-js"></script>
+<link rel="https://api.w.org/" href="https://lacasadigital.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://lacasadigital.com.br/wp-json/wp/v2/pages/3987" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lacasadigital.com.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.3" />
+<link rel="canonical" href="https://lacasadigital.com.br/liberdade/" />
+<link rel='shortlink' href='https://lacasadigital.com.br/?p=3987' />
+<link rel="alternate" type="application/json+oembed" href="https://lacasadigital.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flacasadigital.com.br%2Fliberdade%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lacasadigital.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flacasadigital.com.br%2Fliberdade%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.21.5; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PNK737LP');</script>
+<!-- End Google Tag Manager -->
+<link rel="icon" href="https://lacasadigital.com.br/wp-content/uploads/2023/09/favicon2-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://lacasadigital.com.br/wp-content/uploads/2023/09/favicon2.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lacasadigital.com.br/wp-content/uploads/2023/09/favicon2.png" />
+<meta name="msapplication-TileImage" content="https://lacasadigital.com.br/wp-content/uploads/2023/09/favicon2.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="page-template page-template-elementor_canvas page page-id-3987 elementor-default elementor-template-canvas elementor-kit-4 elementor-page elementor-page-3987">
+			<div data-elementor-type="wp-page" data-elementor-id="3987" class="elementor elementor-3987" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-6feb3a10 e-flex e-con-boxed e-con e-parent" data-id="6feb3a10" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-742e8b48 e-con-full e-flex e-con e-child" data-id="742e8b48" data-element_type="container">
+				<div class="elementor-element elementor-element-4ec0fa9a elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="4ec0fa9a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="157" src="https://lacasadigital.com.br/wp-content/uploads/2024/05/logo-combo-300x157.webp" class="attachment-medium size-medium wp-image-4162" alt="" srcset="https://lacasadigital.com.br/wp-content/uploads/2024/05/logo-combo-300x157.webp 300w,   https://lacasadigital.com.br/wp-content/uploads/2024/05/logo-combo.webp 747w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-49e45434 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="49e45434" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><span class = "destaque">3 em 1:</span> Destravar digital, Códigos do milhão e Destravar da inteligência emocional.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67fbf68 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="67fbf68" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Tenha acesso aos <strong>3 livros que vão te dar a chave da liberdade</strong> para você enriquecer dentro ou fora da internet.</span></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-602f8314 e-con-full e-flex e-con e-child" data-id="602f8314" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-c6a10ea elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="c6a10ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>OFERTA ESPECIAL POR TEMPO LIMITADO!</b></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-79cd6856 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="79cd6856" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">De: <s>R$291,00</s> leve os 3 livros</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-581fb3be elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="581fb3be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 600; font-size: 20px;">por </span><span style="font-weight: 600;">R$9,90</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2f0d1e3a elementor-widget__width-initial elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="2f0d1e3a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://go.tribopay.com/mg424">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">QUERO MEU COMBO DA LIBERDADE</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3d712fa8 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="3d712fa8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Obs: </b><span style="font-weight: 400;">Esta oferta é por um período limitado.</span></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9bb60c9 e-flex e-con-boxed e-con e-parent" data-id="9bb60c9" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1b29dc7 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="1b29dc7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Você sabe o que os  <span class = "destaque">milionários</span> têm em comum?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0718a92 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="0718a92" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Todos eles levam a <strong>leitura como um hábito em suas vidas.</strong></span></p><p><span style="font-weight: 400;">Pensando nisso eu, Pablo Marçal, resolvi pegar <strong>03 dos meus melhores livros para destravar</strong> de uma vez por todas a prosperidade em sua vida.</span></p><p><strong>Independente de qual lugar seja…</strong></p><p><span style="font-weight: 400;">Dentro ou fora do digital! Eu tenho os códigos para gerar riqueza e eles podem ser seus se você tomar a decisão de cair pra dentro desse combo.</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5131bb7 elementor-widget__width-initial elementor-mobile-align-center elementor-align-left elementor-widget elementor-widget-button" data-id="5131bb7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://go.tribopay.com/mg424">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">QUERO MEU COMBO DA LIBERDADE</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0da8f80 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="0da8f80" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Obs: </b><span style="font-weight: 400;">Esta oferta é por um período limitado.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5044041c e-flex e-con-boxed e-con e-parent" data-id="5044041c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6d3c8e2d elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="6d3c8e2d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Mas afinal, para quem é o <span class = "destaque">Combo da Liberdade</span> ?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eeed597 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="eeed597" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Para você que…</h2>		</div>
+				</div>
+		<div class="elementor-element elementor-element-3c7ad146 e-flex e-con-boxed e-con e-child" data-id="3c7ad146" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7caf380e elementor-widget__width-initial elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="7caf380e" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none"><path d="M17.553 122.351C17.1031 123.343 16.9578 124.445 17.1356 125.519C17.3133 126.594 17.8061 127.591 18.5514 128.384L82.2784 194.884C82.6673 195.302 83.1381 195.636 83.6615 195.864C84.1849 196.091 84.7496 196.209 85.3205 196.209C85.8914 196.209 86.4561 196.091 86.9795 195.864C87.5029 195.636 87.9737 195.302 88.3626 194.884L152.166 128.325C153.08 127.385 153.593 126.128 153.6 124.817V124.672C153.586 123.875 153.421 123.087 153.114 122.351C152.816 121.516 152.269 120.792 151.548 120.276C150.826 119.76 149.964 119.478 149.077 119.467H119.467C117.203 119.467 115.033 118.568 113.433 116.968C111.832 115.367 110.933 113.197 110.933 110.934V17.0669H59.7333V110.934C59.7333 113.197 58.8343 115.367 57.2339 116.968C55.6336 118.568 53.4631 119.467 51.2 119.467H21.5893C20.7025 119.478 19.8404 119.76 19.1189 120.276C18.3973 120.792 17.8509 121.516 17.553 122.351Z" fill="url(#paint0_linear_2071_2)"></path><path d="M238.703 487.1C240.905 489.487 243.578 491.391 246.553 492.694C249.527 493.997 252.74 494.67 255.987 494.67C259.235 494.67 262.447 493.997 265.422 492.694C268.397 491.391 271.069 489.487 273.271 487.1L436.258 311.646C440.059 307.399 442.543 302.14 443.41 296.507C444.276 290.875 443.487 285.112 441.139 279.919C439.385 275.449 436.336 271.604 432.384 268.877C428.431 266.15 423.754 264.664 418.953 264.61L349.867 264.534C347.603 264.534 345.433 263.635 343.833 262.034C342.232 260.434 341.333 258.263 341.333 256V25.6002C341.333 23.337 340.434 21.1666 338.834 19.5662C337.234 17.9659 335.063 17.0669 332.8 17.0669H179.2C176.937 17.0669 174.766 17.9659 173.166 19.5662C171.566 21.1666 170.667 23.337 170.667 25.6002V256C170.667 258.263 169.768 260.434 168.167 262.034C166.567 263.635 164.396 264.534 162.133 264.534L93.0986 264.627C88.2883 264.672 83.601 266.153 79.6386 268.881C75.6762 271.609 72.6195 275.459 70.8608 279.936C68.5122 285.133 67.7249 290.9 68.5945 296.536C69.4641 302.172 71.9532 307.433 75.7589 311.68L238.703 487.1ZM247.467 222.72V213.334C247.467 211.07 248.366 208.9 249.966 207.3C251.566 205.699 253.737 204.8 256 204.8C258.263 204.8 260.434 205.699 262.034 207.3C263.634 208.9 264.533 211.07 264.533 213.334V222.635C277.674 224.808 289.435 232.056 297.284 242.816C297.931 243.755 298.384 244.813 298.615 245.93C298.846 247.046 298.851 248.198 298.63 249.316C298.409 250.434 297.966 251.497 297.327 252.441C296.689 253.386 295.867 254.192 294.911 254.814C293.956 255.435 292.885 255.859 291.763 256.06C290.641 256.261 289.49 256.235 288.378 255.984C287.266 255.732 286.215 255.261 285.289 254.597C284.362 253.933 283.578 253.09 282.982 252.118C279.824 247.969 275.739 244.616 271.054 242.327C266.369 240.038 261.214 238.876 256 238.934C249.21 238.934 242.699 241.631 237.898 246.432C233.097 251.233 230.4 257.744 230.4 264.534C230.4 271.323 233.097 277.835 237.898 282.635C242.699 287.436 249.21 290.134 256 290.134C266.581 290.123 276.788 294.044 284.641 301.136C292.493 308.228 297.43 317.985 298.494 328.512C299.557 339.04 296.671 349.587 290.395 358.106C284.12 366.625 274.903 372.508 264.533 374.614V384C264.533 386.263 263.634 388.434 262.034 390.034C260.434 391.635 258.263 392.534 256 392.534C253.737 392.534 251.566 391.635 249.966 390.034C248.366 388.434 247.467 386.263 247.467 384V374.699C234.326 372.525 222.565 365.278 214.716 354.518C213.471 352.626 213.029 350.317 213.486 348.099C213.944 345.88 215.264 343.935 217.156 342.69C219.048 341.446 221.357 341.003 223.575 341.461C225.793 341.919 227.739 343.239 228.983 345.131C232.136 349.3 236.223 352.672 240.914 354.977C245.606 357.281 250.773 358.454 256 358.4C262.79 358.4 269.301 355.703 274.102 350.902C278.903 346.101 281.6 339.59 281.6 332.8C281.6 326.011 278.903 319.499 274.102 314.698C269.301 309.897 262.79 307.2 256 307.2C245.419 307.211 235.212 303.29 227.359 296.198C219.507 289.106 214.57 279.349 213.506 268.822C212.443 258.294 215.329 247.747 221.605 239.228C227.88 230.709 237.097 224.826 247.467 222.72Z" fill="url(#paint1_linear_2071_2)"></path><path d="M490.411 119.467H460.8C458.537 119.467 456.366 118.568 454.766 116.968C453.166 115.367 452.267 113.197 452.267 110.934V17.0669H401.067V110.934C401.067 113.197 400.168 115.367 398.567 116.968C396.967 118.568 394.797 119.467 392.533 119.467H362.923C362.039 119.474 361.178 119.75 360.455 120.26C359.732 120.769 359.182 121.487 358.878 122.317C358.561 123.068 358.396 123.874 358.391 124.689V124.749C358.393 126.098 358.926 127.392 359.876 128.35L423.603 194.85C423.992 195.268 424.463 195.602 424.986 195.829C425.51 196.057 426.074 196.175 426.645 196.175C427.216 196.175 427.781 196.057 428.304 195.829C428.828 195.602 429.299 195.268 429.687 194.85L493.491 128.29C494.217 127.497 494.694 126.508 494.862 125.446C495.031 124.384 494.883 123.296 494.438 122.317C494.135 121.489 493.588 120.774 492.869 120.265C492.149 119.755 491.292 119.477 490.411 119.467Z" fill="url(#paint2_linear_2071_2)"></path><defs><linearGradient id="paint0_linear_2071_2" x1="17.0618" y1="106.638" x2="153.6" y2="106.638" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient><linearGradient id="paint1_linear_2071_2" x1="68.2504" y1="255.868" x2="443.752" y2="255.868" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient><linearGradient id="paint2_linear_2071_2" x1="358.391" y1="106.621" x2="494.93" y2="106.621" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient></defs></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						Não aguenta mais ver outras pessoas enriquecerem dentro e fora do digital, enquanto você fica para trás…					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5037a243 elementor-widget__width-initial elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="5037a243" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none"><g clip-path="url(#clip0_2071_6)"><path d="M388.129 0C349.112 0 312.39 18.444 289.026 49.558L239.484 49.549C225.824 49.549 214.71 60.663 214.71 74.323V99.097H189.936H189.935C182.198 88.793 169.994 82.581 156.904 82.581C134.137 82.581 115.614 101.104 115.614 123.871V156.903C115.614 169.992 121.825 182.197 132.13 189.934V214.709H107.356C93.696 214.709 82.582 225.823 82.582 239.483V289.031C82.582 302.691 93.696 313.805 107.356 313.805H155.868C197.118 313.805 230.923 346.893 231.225 387.563C231.374 407.528 223.712 426.323 209.654 440.486C195.594 454.65 176.861 462.45 156.905 462.45C154.006 462.45 151.226 462.955 148.638 463.873C146 462.941 143.209 462.45 140.389 462.45H122.593C82.317 462.45 49.55 429.683 49.55 389.407C49.55 372.885 55.235 356.679 65.556 343.778L77.153 329.28C85.686 318.614 83.949 302.994 73.283 294.459C68.908 290.959 63.415 289.03 57.814 289.03C50.245 289.03 43.192 292.418 38.462 298.328L26.865 312.825C9.54 334.482 0 361.678 0 389.409C0 457.006 54.994 512 122.591 512H140.387C143.207 512 145.997 511.51 148.637 510.577C151.224 511.496 154.006 512 156.903 512C225.205 512 280.774 456.431 280.774 388.129C280.774 349.111 262.333 312.387 231.226 289.024V239.484C231.226 225.824 220.112 214.71 206.452 214.71H181.678V189.936V189.935C191.982 182.198 198.194 169.994 198.194 156.904V148.646H214.71V173.42C214.71 187.08 225.824 198.194 239.486 198.194L289.026 198.184C312.39 229.297 349.113 247.743 388.129 247.743C456.431 247.743 512 192.174 512 123.872C512 55.57 456.431 0 388.129 0ZM181.677 123.871C181.677 119.318 185.382 115.613 189.935 115.613H239.483C244.036 115.613 247.741 119.318 247.741 123.871C247.741 128.424 244.036 132.129 239.483 132.129H189.935C185.382 132.129 181.677 128.424 181.677 123.871ZM16.516 389.409C16.516 365.414 24.771 341.882 39.76 323.144L51.356 308.649C52.932 306.678 55.286 305.549 57.812 305.549C59.677 305.549 61.506 306.191 62.963 307.356C66.518 310.201 67.098 315.409 64.254 318.964L52.657 333.461C40.002 349.28 33.032 369.149 33.032 389.408C33.032 438.791 73.207 478.967 122.591 478.967H133.549C132.632 481.552 132.129 484.331 132.129 487.225C132.129 490.119 132.633 492.898 133.549 495.483H122.591C64.101 495.484 16.516 447.899 16.516 389.409ZM206.452 231.226C211.005 231.226 214.71 234.931 214.71 239.484V297.547L218.243 300.012C247.056 320.109 264.258 353.05 264.258 388.129C264.258 447.325 216.099 495.484 156.903 495.484C152.35 495.484 148.645 491.779 148.645 487.226C148.645 482.673 152.35 478.968 156.903 478.968C181.294 478.968 204.191 469.434 221.375 452.122C238.558 434.812 247.921 411.841 247.74 387.442C247.371 337.733 206.158 297.291 155.867 297.291H107.355C102.802 297.291 99.097 293.586 99.097 289.033V239.485C99.097 234.932 102.802 231.227 107.355 231.227H132.129V239.485C132.129 253.146 143.243 264.259 156.903 264.259C170.563 264.259 181.677 253.146 181.677 239.485V231.227H206.452V231.226ZM148.645 239.484V189.936C148.645 185.383 152.35 181.678 156.903 181.678C161.456 181.678 165.161 185.383 165.161 189.936V239.484C165.161 244.037 161.456 247.742 156.903 247.742C152.35 247.742 148.645 244.037 148.645 239.484ZM175.358 173.43C170.818 168.36 164.228 165.162 156.903 165.162C149.578 165.162 142.988 168.36 138.448 173.43C134.442 168.95 132.129 163.091 132.129 156.904V123.872C132.129 110.212 143.243 99.098 156.903 99.098C163.09 99.098 168.949 101.411 173.429 105.417C168.359 109.957 165.161 116.547 165.161 123.872C165.161 134.637 172.066 143.816 181.677 147.226V156.904C181.677 163.091 179.364 168.951 175.358 173.43ZM388.129 231.226C353.054 231.226 320.113 214.02 300.014 185.201L297.549 181.666L239.483 181.678C234.93 181.678 231.225 177.973 231.225 173.42V148.646H239.483C253.143 148.646 264.257 137.533 264.257 123.872C264.257 110.211 253.143 99.098 239.483 99.098H231.225V74.323C231.225 69.77 234.93 66.065 239.481 66.065L297.549 66.076L300.014 62.541C320.112 33.722 353.053 16.517 388.129 16.517C447.325 16.517 495.484 64.676 495.484 123.872C495.484 128.425 491.779 132.13 487.226 132.13C482.673 132.13 478.968 128.425 478.968 123.872C478.968 73.784 438.218 33.033 388.129 33.033C338.04 33.033 297.29 73.783 297.29 123.872C297.29 173.961 338.04 214.711 388.129 214.711C430.566 214.711 466.295 185.459 476.222 146.06C479.54 147.712 483.274 148.647 487.226 148.647C489.123 148.647 490.969 148.425 492.745 148.019C481.761 195.624 439.025 231.226 388.129 231.226ZM462.452 123.871C462.452 164.853 429.111 198.194 388.129 198.194C347.147 198.194 313.806 164.853 313.806 123.871C313.806 82.889 347.147 49.548 388.129 49.548C429.111 49.548 462.452 82.889 462.452 123.871Z" fill="url(#paint0_linear_2071_6)"></path></g><defs><linearGradient id="paint0_linear_2071_6" x1="0" y1="256" x2="512" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient><clipPath id="clip0_2071_6"><rect width="512" height="512" fill="white"></rect></clipPath></defs></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						Está em busca da instrução correta para abandonar o CLT que só vem te aprisionando…					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-42fc2775 elementor-widget__width-initial elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="42fc2775" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<span  class="elementor-icon elementor-animation-">
+				<svg xmlns="http://www.w3.org/2000/svg" width="480" height="512" viewBox="0 0 480 512" fill="none"><path d="M372.001 160H408.001C410.123 160 412.158 159.157 413.658 157.657C415.158 156.157 416.001 154.122 416.001 152V123.124C416.166 90.6841 403.458 59.5031 380.663 36.4212C357.868 13.3392 326.849 0.241087 294.409 0L273.581 0C241.144 0.243195 210.127 13.3424 187.334 36.4242C164.542 59.5061 151.835 90.6858 152.001 123.124V192H204.001V123.128C204.221 104.076 211.988 85.8878 225.598 72.5539C239.209 59.2199 257.552 51.8282 276.605 52H291.389C310.443 51.8271 328.788 59.2182 342.4 72.5522C356.012 85.8862 363.781 104.074 364.001 123.128V152C364.001 154.122 364.844 156.157 366.344 157.657C367.845 159.157 369.88 160 372.001 160ZM453.125 151.8C453.125 153.922 453.968 155.957 455.468 157.457C456.969 158.957 459.004 159.8 461.125 159.8H472.001C474.123 159.8 476.158 158.957 477.658 157.457C479.158 155.957 480.001 153.922 480.001 151.8C480.001 149.678 479.158 147.643 477.658 146.143C476.158 144.643 474.123 143.8 472.001 143.8H461.125C459.004 143.8 456.969 144.643 455.468 146.143C453.968 147.643 453.125 149.678 453.125 151.8ZM458.081 106.412L450.273 114.412C448.792 115.931 447.974 117.977 448.001 120.098C448.028 122.22 448.896 124.244 450.415 125.726C451.934 127.207 453.98 128.025 456.102 127.998C458.223 127.972 460.248 127.103 461.729 125.584L469.529 117.584C470.981 116.06 471.773 114.025 471.734 111.92C471.695 109.816 470.828 107.811 469.322 106.341C467.815 104.872 465.79 104.055 463.685 104.068C461.58 104.081 459.569 104.923 458.081 106.412ZM450.273 189.584L458.077 197.584C459.569 199.085 461.59 199.941 463.706 199.968C465.822 199.995 467.864 199.191 469.393 197.728C470.146 196.994 470.746 196.12 471.161 195.154C471.575 194.188 471.795 193.15 471.808 192.099C471.821 191.048 471.627 190.005 471.236 189.029C470.846 188.053 470.267 187.164 469.533 186.412L461.729 178.412C460.248 176.893 458.223 176.024 456.102 175.998C453.98 175.971 451.934 176.789 450.415 178.27C448.896 179.752 448.028 181.776 448.001 183.898C447.974 186.019 448.792 188.065 450.273 189.584Z" fill="url(#paint0_linear_2065_28)"></path><path d="M68.0013 392C83.4653 392 96.0013 379.464 96.0013 364C96.0013 348.536 83.4653 336 68.0013 336C52.5373 336 40.0013 348.536 40.0013 364C40.0013 379.464 52.5373 392 68.0013 392Z" fill="url(#paint1_linear_2065_28)"></path><path d="M0.00127422 364C-0.126531 388.236 9.36446 411.534 26.3921 428.781C43.4197 446.028 66.5934 455.817 90.8293 456C108.726 455.919 126.201 450.563 141.07 440.602C155.938 430.641 167.539 416.516 174.421 399.996H220.001C222.123 399.996 224.158 399.153 225.658 397.653C227.158 396.153 228.001 394.118 228.001 391.996V384H244.001V391.996C244.001 394.118 244.844 396.153 246.344 397.653C247.845 399.153 249.88 399.996 252.001 399.996H276.001V408C276.001 410.122 276.844 412.157 278.344 413.657C279.845 415.157 281.88 416 284.001 416C286.123 416 288.158 415.157 289.658 413.657C291.158 412.157 292.001 410.122 292.001 408V320C292.001 317.878 291.158 315.843 289.658 314.343C288.158 312.843 286.123 312 284.001 312C281.88 312 279.845 312.843 278.344 314.343C276.844 315.843 276.001 317.878 276.001 320V328.004H174.421C167.539 311.484 155.938 297.359 141.07 287.398C126.201 277.437 108.726 272.081 90.8293 272C66.5934 272.183 43.4197 281.972 26.3921 299.219C9.36446 316.466 -0.126531 339.764 0.00127422 364ZM90.8293 288C106.386 288.089 121.532 293.01 134.17 302.082C146.809 311.154 156.316 323.929 161.377 338.64C161.924 340.207 162.945 341.565 164.298 342.526C165.651 343.487 167.27 344.004 168.929 344.004H276.001V383.996H260.001V376C260.001 373.878 259.158 371.843 257.658 370.343C256.158 368.843 254.123 368 252.001 368H220.001C217.88 368 215.845 368.843 214.344 370.343C212.844 371.843 212.001 373.878 212.001 376V383.996H168.929C167.27 383.996 165.652 384.512 164.299 385.472C162.946 386.432 161.925 387.79 161.377 389.356C156.317 404.068 146.81 416.844 134.171 425.917C121.533 434.989 106.387 439.911 90.8293 440C70.8638 439.71 51.8142 431.576 37.7978 417.354C23.7814 403.133 15.924 383.968 15.924 364C15.924 344.032 23.7814 324.867 37.7978 310.646C51.8142 296.424 70.8638 288.29 90.8293 288Z" fill="url(#paint2_linear_2065_28)"></path><path d="M416.761 208H151.241C140.795 208.054 130.797 212.249 123.441 219.666C116.085 227.082 111.97 237.114 112.001 247.56V258.144C127.283 261.278 141.691 267.725 154.212 277.03C166.733 286.335 177.061 298.272 184.469 312H261.373C263.26 306.662 266.973 302.163 271.857 299.298C276.74 296.433 282.479 295.387 288.06 296.344C293.64 297.301 298.702 300.201 302.351 304.53C306 308.859 308.002 314.338 308.001 320V408C308.001 413.661 305.999 419.14 302.349 423.469C298.7 427.797 293.638 430.695 288.058 431.652C282.478 432.609 276.739 431.563 271.856 428.698C266.973 425.833 263.26 421.334 261.373 415.996H252.001C246.095 416 240.396 413.819 236.001 409.872C231.607 413.819 225.908 416 220.001 415.996H184.469C177.061 429.725 166.733 441.663 154.213 450.969C141.692 460.274 127.283 466.721 112.001 469.856V472.436C111.969 482.883 116.083 492.915 123.44 500.333C130.796 507.75 140.795 511.946 151.241 512H416.761C427.207 511.946 437.205 507.751 444.562 500.334C451.918 492.918 456.032 482.886 456.001 472.44V247.56C456.032 237.114 451.918 227.082 444.562 219.666C437.205 212.249 427.207 208.054 416.761 208ZM168.001 264C166.419 264 164.872 263.531 163.557 262.652C162.241 261.773 161.216 260.523 160.61 259.061C160.005 257.6 159.846 255.991 160.155 254.439C160.464 252.887 161.226 251.462 162.344 250.343C163.463 249.224 164.889 248.462 166.441 248.154C167.992 247.845 169.601 248.003 171.063 248.609C172.525 249.214 173.774 250.24 174.653 251.555C175.532 252.871 176.001 254.418 176.001 256C176.001 258.122 175.158 260.157 173.658 261.657C172.158 263.157 170.123 264 168.001 264ZM168.001 472C166.419 472 164.872 471.531 163.557 470.652C162.241 469.773 161.216 468.523 160.61 467.061C160.005 465.6 159.846 463.991 160.155 462.439C160.464 460.887 161.226 459.462 162.344 458.343C163.463 457.224 164.889 456.462 166.441 456.154C167.992 455.845 169.601 456.003 171.063 456.609C172.525 457.214 173.774 458.24 174.653 459.555C175.532 460.871 176.001 462.418 176.001 464C176.001 466.122 175.158 468.157 173.658 469.657C172.158 471.157 170.123 472 168.001 472ZM400.001 472C398.419 472 396.872 471.531 395.557 470.652C394.241 469.773 393.216 468.523 392.61 467.061C392.005 465.6 391.846 463.991 392.155 462.439C392.464 460.887 393.226 459.462 394.344 458.343C395.463 457.224 396.889 456.462 398.441 456.154C399.992 455.845 401.601 456.003 403.063 456.609C404.525 457.214 405.774 458.24 406.653 459.555C407.532 460.871 408.001 462.418 408.001 464C408.001 466.122 407.158 468.157 405.658 469.657C404.158 471.157 402.123 472 400.001 472ZM400.001 264C398.419 264 396.872 263.531 395.557 262.652C394.241 261.773 393.216 260.523 392.61 259.061C392.005 257.6 391.846 255.991 392.155 254.439C392.464 252.887 393.226 251.462 394.344 250.343C395.463 249.224 396.889 248.462 398.441 248.154C399.992 247.845 401.601 248.003 403.063 248.609C404.525 249.214 405.774 250.24 406.653 251.555C407.532 252.871 408.001 254.418 408.001 256C408.001 258.122 407.158 260.157 405.658 261.657C404.158 263.157 402.123 264 400.001 264Z" fill="url(#paint3_linear_2065_28)"></path><defs><linearGradient id="paint0_linear_2065_28" x1="152" y1="99.9843" x2="480.001" y2="99.9843" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient><linearGradient id="paint1_linear_2065_28" x1="40.0013" y1="364" x2="96.0013" y2="364" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient><linearGradient id="paint2_linear_2065_28" x1="0" y1="364" x2="292.001" y2="364" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient><linearGradient id="paint3_linear_2065_28" x1="112.001" y1="360" x2="456.001" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#FF9120"></stop><stop offset="0.51" stop-color="#FE739A"></stop><stop offset="1" stop-color="#FF05E3"></stop></linearGradient></defs></svg>				</span>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+				
+									<p class="elementor-icon-box-description">
+						…e para você que decidiu dar um basta na escassez financeira e está disposto a mudar de vida nos próximos meses.					</p>
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-fa47982 elementor-widget__width-initial elementor-mobile-align-center elementor-align-left elementor-widget elementor-widget-button" data-id="fa47982" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://go.tribopay.com/mg424">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">QUERO MEU COMBO DA LIBERDADE</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b967b36 e-flex e-con-boxed e-con e-parent" data-id="b967b36" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8b9e26d e-con-full e-flex e-con e-child" data-id="8b9e26d" data-element_type="container">
+				<div class="elementor-element elementor-element-50f340e elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="50f340e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="157" src="https://lacasadigital.com.br/wp-content/uploads/2024/05/logo-combo-300x157.webp" class="attachment-medium size-medium wp-image-4162" alt="" srcset="https://lacasadigital.com.br/wp-content/uploads/2024/05/logo-combo-300x157.webp 300w,   https://lacasadigital.com.br/wp-content/uploads/2024/05/logo-combo.webp 747w" sizes="(max-width: 300px) 100vw, 300px" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-cc7fbd2 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="cc7fbd2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Ao adquirir o <span class = "destaque">Combo da Liberdade</span> você terá acesso:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5c59c85 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5c59c85" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Destravar Digital;</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Destravar da Inteligência emocional</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Códigos do Milhão</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fda5a4e e-con-full e-flex e-con e-child" data-id="fda5a4e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1da5cd4 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="1da5cd4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>OFERTA ESPECIAL POR TEMPO LIMITADO!</b></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2fffa19 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="2fffa19" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">De: <s>R$291,00</s> leve os 3 livros</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-13506a4 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="13506a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 600; font-size: 20px;">por </span><span style="font-weight: 600;">R$9,90</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-45eb1cf elementor-widget__width-initial elementor-mobile-align-center elementor-align-center elementor-widget elementor-widget-button" data-id="45eb1cf" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://go.tribopay.com/mg424">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">QUERO MEU COMBO DA LIBERDADE</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-66e4a71 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="66e4a71" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Obs: </b><span style="font-weight: 400;">Esta oferta é por um período limitado.</span></p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-46cda371 e-flex e-con-boxed e-con e-parent" data-id="46cda371" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5c57582e e-con-full e-flex e-con e-child" data-id="5c57582e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1b687840 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="1b687840" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img fetchpriority="high" decoding="async" width="788" height="593" src="https://lacasadigital.com.br/wp-content/webp-express/webp-images/uploads/2024/05/Garantia-100-Risco-Zero-7-dias-1.png.webp" class="attachment-large size-large wp-image-3978" alt="" srcset="https://lacasadigital.com.br/wp-content/webp-express/webp-images/uploads/2024/05/Garantia-100-Risco-Zero-7-dias-1.png.webp 788w,  https://lacasadigital.com.br/wp-content/webp-express/webp-images/uploads/2024/05/Garantia-100-Risco-Zero-7-dias-1-300x226.png.webp 300w,  https://lacasadigital.com.br/wp-content/webp-express/webp-images/uploads/2024/05/Garantia-100-Risco-Zero-7-dias-1-768x578.png.webp 768w" sizes="(max-width: 788px) 100vw, 788px" />													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4b21e9b2 e-con-full e-flex e-con e-child" data-id="4b21e9b2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-633d2ea2 elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="633d2ea2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Garantia Incondicional</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1596ba88 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="1596ba88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">Ao adquirir esse combo você tem 07 dias para solicitar o seu investimento de volta. </span></p><p><span style="font-weight: 400;">Ou seja, caso tenha acesso ao conteúdo e sinta que ele não agregou nada para você. </span></p><p><span style="font-weight: 400;">É só entrar em contato com minha equipe e solicitar seu dinheiro de volta.</span></p>						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6ce43098 e-flex e-con-boxed e-con e-parent" data-id="6ce43098" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6fc45ecc elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-heading" data-id="6fc45ecc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Quem é o  <span class = "destaque">Pablo Marçal!</span>
+</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-660dab99 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="660dab99" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							Pablo Marçal, cristão, casado com @carolmarcal1, pai do Lorenzo, Benjamin, Miguel e Isabela. Aos 36 anos, se tornou um dos patriarcas mais prósperos do Brasil.
+<br><br>
+Nas redes sociais é assistido por mais de 20 milhões de pessoas por mês. Acompanhe os canais oficiais: Blog Pablo Marçal, Cortes do Marçal, Instagram, Tiktok, Youtube, Twitter e Threads .
+<br><br>
+Multiempreendedor, mentor, escritor, piloto de corrida e investidor. Hoje, lidera como CVO (Chief Visionary Officer) um grupo multibilionário nos ramos imobiliário, digital, ensino, seguros, vendas, automobilístico, aviação, tecnologia, hotelaria, fazenda e outros.
+<br><br>
+Mora em Alphaville-SP e tem um dos maiores ecossistemas empresariais da América Latina.
+<br><br>
+Marçal já liderou a semana de livros mais vendidos do país com mais de 35 títulos e muitos se tornaram Best Sellers.
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-730179c2 e-flex e-con-boxed e-con e-parent" data-id="730179c2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6bda41e6 elementor-widget elementor-widget-image" data-id="6bda41e6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="130" height="27" src="https://lacasadigital.com.br/wp-content/uploads/2024/05/logopsvg.svg" class="attachment-large size-large wp-image-3980" alt="" />													</div>
+				</div>
+				<div class="elementor-element elementor-element-d562451 elementor-widget elementor-widget-html" data-id="d562451" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>
+
+(function () {
+    const parametros = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"]
+
+    r = new URL(window.top.location.href);
+    let scks = []
+    let utms = {}
+
+    parametros.forEach((el => {
+        if (el.includes("source")) {
+            scks[scks.length] = r.searchParams.get(el) ? r.searchParams.get(el) : (document.referrer ? new URL(document.referrer).hostname : "direto")
+            utms[el] = r.searchParams.get(el) ? r.searchParams.get(el) : (document.referrer ? new URL(document.referrer).hostname : "direto")
+        }
+        else {
+            scks[scks.length] = r.searchParams.get(el) ? r.searchParams.get(el) : ""
+            utms[el] = r.searchParams.get(el) ? r.searchParams.get(el) : ""
+        }
+    }))
+
+    scks = scks.filter(function (el) {
+        return el != "";
+    });
+
+    let sck = "sck=" + scks.join('|')
+    let href = ""
+
+    for (el in utms) {
+        utms[el] ? href += el + "=" + utms[el] + "&" : ""
+    }
+    href += sck
+
+    document.querySelectorAll('a').forEach(el => {
+        if (!el.href.includes("#")) {
+            el.href.includes("?") ? el.href += "&" + href : el.href += "?" + href
+        }
+    })
+})();
+
+</script>v		</div>
+				</div>
+				<div class="elementor-element elementor-element-6de0bc9f elementor-widget elementor-widget-text-editor" data-id="6de0bc9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Pablo Marçal 2024 | Todos os direitos reservados</p><p>CNPJ: 37676810/0001-72</p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=608209829624734&ev=PageView&noscript=1&cd%5Bpage_title%5D=Combo+Liberdade&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3987&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=lacasadigital.com.br%2Fliberdade%2F" alt=""></noscript>
+<script id="wp-polls-js-extra">
+var pollsL10n = {"ajax_url":"https:\/\/lacasadigital.com.br\/wp-admin\/admin-ajax.php","text_wait":"Seu \u00faltimo pedido ainda est\u00e1 sendo processada. Por favor espere um pouco...","text_valid":"Por favor, escolha uma resposta v\u00e1lida.","text_multiple":"N\u00famero m\u00e1ximo de op\u00e7\u00f5es permitidas:","show_loading":"1","show_fading":"1"};
+</script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.2" id="wp-polls-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.5" id="elementor-webpack-runtime-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.5" id="elementor-frontend-modules-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/lacasadigital.com.br\/wp-admin\/admin-ajax.php","nonce":"53a942a980","urls":{"assets":"https:\/\/lacasadigital.com.br\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/lacasadigital.com.br\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/lacasadigital.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.2" id="elementor-pro-frontend-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://lacasadigital.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselWrapperAriaLabel":"Carrossel | Rolagem horizontal: Setas para esquerda e direita","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.21.5","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"container_grid":true,"theme_builder_v2":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"form-submissions":true},"urls":{"assets":"https:\/\/lacasadigital.com.br\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":3987,"title":"Combo%20Liberdade%20%E2%80%93%20La%20Casa%20Digital","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5" id="elementor-frontend-js"></script>
+<script src="https://lacasadigital.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.2" id="pro-elements-handlers-js"></script>
+<script>
+const utms = {
+    'utm_campaign': 157,
+    'utm_medium': 156,
+    'utm_source': 155,
+    'utm_content': 159,
+    'utm_term': 158,
+    'pagina de captura': 160
+}
+function criarCampos() {
+    const form = document.querySelectorAll('form')
+    const urlParamsCapt = new URLSearchParams(window.location.search)
+    const urlParamsCaptReferrer = new URLSearchParams(document.referrer.split('?')[1] || '');
+    form.forEach(el => {
+        var list = el.children
+        for (utm in utms) {
+            var existe = false
+            for (let item of list) {
+                item.name == ('field[' + utms[utm] + ']') && !existe ? existe = true : ''
+            }
+            if (!existe) {
+                var x = document.createElement("INPUT");
+                x.setAttribute("type", "hidden");
+                x.setAttribute("name", "field[" + utms[utm] + "]");
+                if (utm == "utm_source") {
+                    x.setAttribute("value", urlParamsCapt.get(utm) ? urlParamsCapt.get(utm) : (document.referrer ? (urlParamsCaptReferrer.get(utm) ?? new URL(document.referrer).hostname) : "direto"))
+                } else if (utm == "pagina de captura") {
+                    x.setAttribute("value", window.location.pathname.replace('/', ''))
+                } else {
+                    x.setAttribute("value", urlParamsCapt.get(utm) ?? (urlParamsCaptReferrer.get(utm) ?? ""))
+                }
+                el.appendChild(x);
+            }
+        }
+    })
+}
+criarCampos()
+window.onload = criarCampos()
+document.getElementById("email").onchange = function () { criarCampos() }
+</script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNK737LP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vedd3670a3b1c4e178fdfb0cc912d969e1713874337387" integrity="sha512-EzCudv2gYygrCcVhu65FkAxclf3mYM6BCwiGUm6BEuLzSb5ulVhgokzCZED7yMIkzYVg65mxfIBNdNra5ZFNyQ==" data-cf-beacon='{"rayId":"8826fd548ed764f0","r":1,"version":"2024.4.1","token":"ef4668321a09454e8c3d0c1657c72417"}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+<!-- Page uncached by LiteSpeed Cache 6.2.0.1 on 2024-05-11 23:30:55 -->
